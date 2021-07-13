@@ -1,0 +1,23 @@
+Hello
+
+For jira API automation below are the basic need data and gothrough
+
+JIRA rest doc :- https://docs.atlassian.com/software/jira/docs/api/REST/7.6.1/
+
+we have used 
+enum class -> load down all API end points
+propert file -> Project name, issue ,user atached to 
+UTILL class bind with excel
+pojo serialization Deserialization
+
+To install jira in local:- https://confluence.atlassian.com/adminjiraserver/installing-jira-applications-on-windows-938846835.html
+it will be trial for 30 days once jira installation done start server 
+if you are not able to start then look for service "Function Discovery Resource Publication" and start manually form control panel if alread working then stop and start jira again 
+
+Test case added 
+Create Project , Get ALL Project 
+
+Create user 1
+
+Create issue , get issue ,add comment , add attachment
+

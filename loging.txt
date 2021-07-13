@@ -1,0 +1,147 @@
+Request method:	POST
+Request URI:	http://localhost:8080/rest/auth/1/session
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "password": "Test12345",
+    "username": "thebugzappers"
+}
+HTTP/1.1 200 
+X-AREQUESTID: 962x1492x1
+Referrer-Policy: strict-origin-when-cross-origin
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: sandbox
+Strict-Transport-Security: max-age=31536000
+Set-Cookie: atlassian.xsrf.token=B52D-URXE-0YSK-H2ZM_20db84b217125260a9a5d541396e3958d24babdb_lout; Path=/
+X-AUSERNAME: anonymous
+Set-Cookie: JSESSIONID=97A6BC11D51B65B1FF02381F2D736378; Path=/; HttpOnly
+X-Seraph-LoginReason: OK
+Cache-Control: no-cache, no-store, no-transform
+Content-Encoding: gzip
+Vary: User-Agent
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Sun, 11 Jul 2021 10:32:54 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+{
+    "session": {
+        "name": "JSESSIONID",
+        "value": "97A6BC11D51B65B1FF02381F2D736378"
+    },
+    "loginInfo": {
+        "failedLoginCount": 1,
+        "loginCount": 241,
+        "lastFailedLoginTime": "2021-06-21T13:50:35.288+0530",
+        "previousLoginTime": "2021-07-11T15:54:53.025+0530"
+    }
+}
+Request method:	POST
+Request URI:	http://localhost:8080/rest/auth/1/session
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "password": "Test12345",
+    "username": "thebugzappers"
+}
+HTTP/1.1 200 
+X-AREQUESTID: 962x1494x1
+Referrer-Policy: strict-origin-when-cross-origin
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: sandbox
+Strict-Transport-Security: max-age=31536000
+Set-Cookie: atlassian.xsrf.token=B52D-URXE-0YSK-H2ZM_68b39b85199f46e01f68181f2c09200080e1741b_lout; Path=/
+X-AUSERNAME: anonymous
+Set-Cookie: JSESSIONID=80A527F919B0ED02DFAF7F56DCAEC831; Path=/; HttpOnly
+X-Seraph-LoginReason: OK
+Cache-Control: no-cache, no-store, no-transform
+Content-Encoding: gzip
+Vary: User-Agent
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Sun, 11 Jul 2021 10:32:56 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+{
+    "session": {
+        "name": "JSESSIONID",
+        "value": "80A527F919B0ED02DFAF7F56DCAEC831"
+    },
+    "loginInfo": {
+        "failedLoginCount": 1,
+        "loginCount": 243,
+        "lastFailedLoginTime": "2021-06-21T13:50:35.288+0530",
+        "previousLoginTime": "2021-07-11T16:02:54.722+0530"
+    }
+}
+Request method:	POST
+Request URI:	http://localhost:8080/rest/auth/1/session
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "password": "Test12345",
+    "username": "thebugzappers"
+}
+HTTP/1.1 200 
+X-AREQUESTID: 962x1497x1
+Referrer-Policy: strict-origin-when-cross-origin
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: sandbox
+Strict-Transport-Security: max-age=31536000
+Set-Cookie: atlassian.xsrf.token=B52D-URXE-0YSK-H2ZM_3478b344c43a97afb3ae828ec464bb7a83ba4a81_lout; Path=/
+X-AUSERNAME: anonymous
+Set-Cookie: JSESSIONID=5B2938D2F6C021C5AAF34A3C4ABF639B; Path=/; HttpOnly
+X-Seraph-LoginReason: OK
+Cache-Control: no-cache, no-store, no-transform
+Content-Encoding: gzip
+Vary: User-Agent
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Sun, 11 Jul 2021 10:32:56 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+{
+    "session": {
+        "name": "JSESSIONID",
+        "value": "5B2938D2F6C021C5AAF34A3C4ABF639B"
+    },
+    "loginInfo": {
+        "failedLoginCount": 1,
+        "loginCount": 246,
+        "lastFailedLoginTime": "2021-06-21T13:50:35.288+0530",
+        "previousLoginTime": "2021-07-11T16:02:56.410+0530"
+    }
+}
